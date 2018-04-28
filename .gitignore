@@ -1,0 +1,9 @@
+week01/recfun/target/
+week02/homework/funsets/target/
+week02/homework/funsets/project/target/
+week02/examples/project/target/
+week02/examples/target/
+**/target/**
+*.class
+*.cache
+*.zip
